@@ -1,0 +1,7 @@
+# References {#ref}
+
+This site contains references
+
+## R {#ref-r}
+
+[Advanced R - Hadley Wickham](https://adv-r.hadley.nz)
